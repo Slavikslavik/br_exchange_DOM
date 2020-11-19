@@ -1,0 +1,49 @@
+body{
+    background-color: grey;
+    padding: 0,0;
+    box-sizing: border-box;
+    width: 100%;
+}
+.content{
+    display: flex;
+    width: 700px;
+
+    margin: 150px auto;
+    flex-wrap: wrap;
+}
+.input{
+    width: 92%;
+    background-color: deepskyblue;
+    font-size: 29px;
+    font-family: 'Indie Flower', cursive;
+
+}
+.content_btn{
+    margin-top: 20px;
+    width: 30%;
+    margin-right: 1.5%;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    color: black;
+    padding: 8px 16px;
+    background-color: pink;
+    border: 1px solid plum;
+}
+.result{
+    color: black;
+    font-size: 35px;
+    width: 90%;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+.modal_page{
+    display: flex;
+    justify-content: center;
+}
+.second_page{
+    text-decoration: none;
+    color: rgba(182, 11, 130, 0.973);
+    font-size: 30px;
+    
+}
